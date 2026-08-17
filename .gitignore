@@ -1,0 +1,5 @@
+# VS Code's configured Java output directory
+/bin/
+
+# Java compiler output created elsewhere
+*.class
